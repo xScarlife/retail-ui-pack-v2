@@ -11,7 +11,7 @@ Open the .rar file and this will contain all the addons I use. You can simply dr
 Once you dragged and dropped the desired addon folders from the .rar file to your AddOns folder you can simply close all windows and launch your game. When on the character selection screen, please go to the lower left corner and select 'AddOns'. Make sure that all the addons you want to load in-game are checked or this can cause problems if you are missing one. 
 
 **ElvUI:**
-The main interface is ElvUI but this is not included in the addon package. Why? ElvUI makes the file size of this addon pack to large in order for me to upload it. You can copy my ElvUI import string by clicking this link: https://wago.io/gzOvW_2a4.
+The main interface is ElvUI but this is not included in the addon package. Why? ElvUI makes the file size of this addon pack to large in order for me to upload it. You can copy my ElvUI import string by clicking this link: https://wago.io/w6lKZFf9x.
 
 Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
 
