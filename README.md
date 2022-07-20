@@ -17,7 +17,7 @@ The main interface is ElvUI but this is **not** included in the addon package. W
 
 **NOTE 2:** If you are in a dungeon or raid, friendly nameplats will also be active there. By default the friendly nameplates castbar will be shown and can be distracting when raiding. To turn them off please paste in this code in your chat window: 
 
-/run SetCVar('nameplateShowOnlyNames', 1); ReloadUI()
+**/run SetCVar('nameplateShowOnlyNames', 1); ReloadUI()**
 
 Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
 
