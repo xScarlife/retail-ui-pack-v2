@@ -13,7 +13,7 @@ Once you dragged and dropped the desired addon folders from the .rar file to you
 
 **ElvUI Profile Installation:**
 
-The main interface is ElvUI but this is **not** included in the addon package. Why? ElvUI makes the file size of this addon pack to large in order for me to upload it. You can copy my ElvUI import string by downloading the "xScarlife ElvUI Profile V2.txt" file from this Github page. Once downloaded, open the .txt file and copy the code. Go in-game and import my profile.
+The main interface is ElvUI but this is **not** included in the addon package. Why? ElvUI makes the file size of this addon pack to large in order for me to upload it. You can copy my ElvUI import string by downloading the "xScarlife ElvUI Profile Retail V2.txt" file from this Github page. Once downloaded, open the .txt file and copy the code. Go in-game and import my profile.
 
 **NOTE 1:** I also use friendly nameplates with this ElvUI profile. In order to turn them on use the key combination "Shift+V" on your keyboard to turn the friendly nameplates on if they are not enabled by default!
 
