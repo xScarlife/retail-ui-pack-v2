@@ -21,7 +21,7 @@ The main interface is ElvUI but this is **not** included in the addon package. W
 
 **NOTE 1:** I also use friendly nameplates with this ElvUI profile. In order to turn them on use the key combination "Shift+V" on your keyboard to turn the friendly nameplates on if they are not enabled by default!
 
-**NOTE 2:** If you are in a dungeon or raid, friendly nameplats will also be active there. By default the friendly nameplates castbar will be shown and can be distracting when raiding. To turn them off please paste in this code in your chat window: 
+**NOTE 2:** If you are in a dungeon or raid, friendly nameplates will also be active there. By default the friendly nameplates castbar will be shown and can be distracting when raiding. To turn them off please paste in this code in your chat window: 
 
 **/run SetCVar('nameplateShowOnlyNames', 1); ReloadUI()**
 
