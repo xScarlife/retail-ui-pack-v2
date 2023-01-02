@@ -22,7 +22,7 @@ Please follow these instructions step by step in order to install my profile cor
 
 **NOTE:** I also use friendly nameplates with this ElvUI profile. In order to turn them on use the key combination "Shift+V" on your keyboard to turn the friendly nameplates on if they are not enabled by default!
 
-## **Details Profile Installation - Dragonflight**
+## **Windtools Profile Installation - Dragonflight**
 
 Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
 
