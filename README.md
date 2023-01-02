@@ -87,8 +87,19 @@ If you are interested in the Weakaura's that I'm using for this expansion, you c
 
 **[Leatrix Plus Dragonflight](https://www.curseforge.com/wow/addons/leatrix-plus)**
 
+**[Loot Appraiser](https://www.curseforge.com/wow/addons/lootappraiser)**
 
+**[Masque](https://www.curseforge.com/wow/addons/masque)**
 
+**[Masque Caith](https://www.curseforge.com/wow/addons/masque-caith)**
+
+**[Minimap Button Bag Reborn](https://www.curseforge.com/wow/addons/minimapbuttonbag-reborn-mmb-reborn)**
+
+**[Opie](https://www.curseforge.com/wow/addons/opie)**
+
+**[Overachiever](https://www.curseforge.com/wow/addons/overachiever)**
+
+**[Paste](https://www.curseforge.com/wow/addons/paste)**
 
 Thanks for reading, have fun!
 
