@@ -45,8 +45,10 @@ Please follow these instructions step by step in order to install my Details Dam
 
 ## **Deadly Boss Mods - Profile Installation - Dragonflight**
 
-1) Download the latest Deadly Boss Mods version from this link: https://www.curseforge.com/wow/addons/deadly-boss-mods
-2) 
+1) Download the latest Deadly Boss Mods version from this link: https://www.curseforge.com/wow/addons/deadly-boss-mods.
+2) Drag the Deadly Boss Mods folders that you can find inside the .zip file to your AddOns folder. In most cases the AddOns folder is located at C:\World of Warcraft\_retail_\Interface\AddOns.
+3) Launch the game and make sure the Deadly Boss Mods addons are checked to be loaded. 
+4) Open the Deadly Boss Mods options menu by writing /dbm in your chat window. Go to 'Options' at the top and click on 'Profiles'. Click on 'Import profile' and paste in my **[DBM Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Deadly%20Boss%20Mods%20Profile.txt)**. Then click on 'Import'  to finalize the import. 
 
 
 Thanks for reading, have fun!
