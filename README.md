@@ -20,11 +20,9 @@ Please follow these instructions step by step in order to install my profile cor
 7) Reload your interface to save all these changes by opening your chat window and writing /reload
 8) My ElvUI profile should now be successfully installed.
 
-**NOTE 1:** I also use friendly nameplates with this ElvUI profile. In order to turn them on use the key combination "Shift+V" on your keyboard to turn the friendly nameplates on if they are not enabled by default!
+**NOTE:** I also use friendly nameplates with this ElvUI profile. In order to turn them on use the key combination "Shift+V" on your keyboard to turn the friendly nameplates on if they are not enabled by default!
 
-**NOTE 2:** If you are in a dungeon or raid, friendly nameplates will also be active there. By default the friendly nameplates castbar will be shown and can be distracting when raiding. To turn them off please paste in this code in your chat window: 
-
-**/run SetCVar('nameplateShowOnlyNames', 1); ReloadUI()**
+## **Details Profile Installation - Dragonflight**
 
 Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
 
