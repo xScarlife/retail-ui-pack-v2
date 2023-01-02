@@ -17,6 +17,8 @@ Please follow these instructions step by step in order to install my profile cor
 4) Open the ElvUI options menu by writing /ev in your chat window. Go to 'Profiles' paste in the **[ElvUI Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20ElvUI%20Profile%20V2.txt)**.
 5) Once my ElvUI import string is imported, go to 'Profiles' and make sure the correct profile called 'xScarlifeUI' is selected.
 6) Now open your chat window and paste in this code: **/run SetCVar('nameplateShowOnlyNames', 1); ReloadUI()**
+7) Reload your interface to save all these changes by opening your chat window and writing /reload
+8) My ElvUI profile should now be successfully installed.
 
 **NOTE 1:** I also use friendly nameplates with this ElvUI profile. In order to turn them on use the key combination "Shift+V" on your keyboard to turn the friendly nameplates on if they are not enabled by default!
 
