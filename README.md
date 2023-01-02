@@ -52,7 +52,9 @@ Please follow these instructions step by step in order to install my Details Dam
 5) My Deadly Boss Mods profile should now be successfully installed.
 
 ## **Weakaura's - Dragonflight**
-If you are interested in the Weakaura's that I'm using for this expansion, you can find them by clicking this link: **[Weakaura's Import Strings](https://github.com/xScarlife/weakauras)**
+If you are interested in the Weakaura's that I'm using for this expansion, you can find them by clicking this link: **[Weakaura's Import Strings](https://github.com/xScarlife/weakauras)**. Please note, the Weakaura's are not mine and I will not be able to give support for any modifications you want to make. 
+
+## **Complete Addon List - Dragonflight**
 
 Thanks for reading, have fun!
 
