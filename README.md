@@ -29,7 +29,12 @@ Please follow these instructions step by step in order to install my Windtools p
 1) Download the latest Windtools version from this link: https://www.curseforge.com/wow/addons/elvui-windtools.
 2) Drag the Windtools folders you can find inside the .zip file to your AddOns folder. In most cases the AddOns folder is located at C:\World of Warcraft\_retail_\Interface\AddOns.
 3) Launch the game and make sure ElvUI Windtools is checked to be loaded. 
-4) Open the ElvUI options menu by writing /elvui in your chat window. Go to 'Windtools' and select 'Advanced'. Then to to 'Profiles' and paste in my **[Windtools Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Windtools%20Profile.txt)**. Then click on 'Import' to finalize. 
+4) Open the ElvUI options menu by writing /elvui in your chat window. Go to 'Windtools' and select 'Advanced'. Then go to 'Profiles' and paste in my **[Windtools Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Windtools%20Profile.txt)**. Then click on 'Import' to finalize. 
+5) My Windtools import profile should now be successfully installed. 
+
+## **Details Damage Meter - Profile Installation - Dragonflight**
+
+
 
 
 Thanks for reading, have fun!
