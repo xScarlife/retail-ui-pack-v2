@@ -36,11 +36,12 @@ Please follow these instructions step by step in order to install my Windtools p
 
 Please follow these instructions step by step in order to install my Details Damage Meter profile correctly. 
 
-1) Download the latest Details Damage Meter version from this link: https://www.curseforge.com/wow/addons/details
+1) Download the latest Details Damage Meter version from this link: https://www.curseforge.com/wow/addons/details.
 2) Drag the Details Damage Meter folders that you can find inside the .zip file to your AddOns folder. In most cases the AddOns folder is located at C:\World of Warcraft\_retail_\Interface\AddOns.
 3) Launch the game and make sure the Details Damage Meter is checked to be loaded. 
-4) Open the Details Damage Meter options meny by writing /details options in your chat window. Go to 'Profiles' and click on 'Import Profile'. Paste in my **[Details Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Details%20Profile%20V2.txt)** and click on 'Okay' to finalize the import. 
-5) 
+4) Open the Details Damage Meter options menu by writing /details options in your chat window. Go to 'Profiles' and click on 'Import Profile'. Paste in my **[Details Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Details%20Profile%20V2.txt)** and click on 'Okay' to finalize the import. 
+5) Make sure the current profile is set to 'xScarlife_Details'.
+6) My Details Damage Meter profile should now be successfully installed.
 
 
 
