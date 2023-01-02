@@ -7,9 +7,9 @@ This version 2 package contains performance fixes and new interface features. Pl
 
 If you don't know how to install addons manually, please watch my video where I teach you how to do that by clicking this link: https://youtu.be/huUvI7O-6lE?t=83
 
-## **ElvUI Profile Installation - Dragonflight**
+## **ElvUI - Profile Installation - Dragonflight**
 
-Please follow these instructions step by step in order to install my profile correctly.
+Please follow these instructions step by step in order to install my ElvUI profile correctly.
 
 1) Download the latest ElvUI version from this link: https://www.tukui.org/download.php?ui=elvui.
 2) Drag the ElvUI folders you can find inside the .zip file to your AddOns folder. In most cases the AddOns folder is located at C:\World of Warcraft\_retail_\Interface\AddOns.
@@ -22,14 +22,15 @@ Please follow these instructions step by step in order to install my profile cor
 
 **NOTE:** I also use friendly nameplates with this ElvUI profile. In order to turn them on use the key combination "Shift+V" on your keyboard to turn the friendly nameplates on if they are not enabled by default!
 
-## **Windtools Profile Installation - Dragonflight**
+## **ElvUI Windtools - Profile Installation - Dragonflight**
 
-Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
+Please follow these instructions step by step in order to install my Windtools profile correctly.
 
-1) TradeSkillMaster: https://www.tradeskillmaster.com/install
-2) Raider.IO: https://www.curseforge.com/wow/addons/raiderio
-3) Better Wardrobe: https://www.curseforge.com/wow/addons/better-wardrobe-and-transmog
-4) Weakauras: https://www.curseforge.com/wow/addons/weakauras-2
+1) Download the latest Windtools version from this link: https://www.curseforge.com/wow/addons/elvui-windtools.
+2) Drag the Windtools folders you can find inside the .zip file to your AddOns folder. In most cases the AddOns folder is located at C:\World of Warcraft\_retail_\Interface\AddOns.
+3) Launch the game and make sure ElvUI Windtools is checked to be loaded. 
+4) Open the ElvUI options menu by writing /ev in your chat window. Go to 'Windtools' and select 'Advanced'. Then to to 'Profiles' and click on 'Import'. There you can paste my Windtools Profile String and click 'Import'.
+
 
 Thanks for reading, have fun!
 
