@@ -56,7 +56,6 @@ If you are interested in the Weakaura's that I'm using for this expansion, you c
 
 ## **Complete Addon List - Dragonflight**
 **[BugGrabber](https://www.curseforge.com/wow/addons/bug-grabber)**
-
 **[BugSack](https://www.curseforge.com/wow/addons/bugsack)**
 
 
