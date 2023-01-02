@@ -55,6 +55,13 @@ Please follow these instructions step by step in order to install my Details Dam
 If you are interested in the Weakaura's that I'm using for this expansion, you can find them by clicking this link: **[Weakaura's Import Strings](https://github.com/xScarlife/weakauras)**. Please note, the Weakaura's are not mine and I will not be able to give support for any modifications you want to make. 
 
 ## **Complete Addon List - Dragonflight**
+**[BugGrabber](https://www.curseforge.com/wow/addons/bug-grabber**
+**[BugSack](https://www.curseforge.com/wow/addons/bugsack**
+
+
+
+
+
 
 Thanks for reading, have fun!
 
