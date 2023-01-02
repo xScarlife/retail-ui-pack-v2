@@ -7,7 +7,7 @@ This version 2 package contains performance fixes and new interface features. Pl
 
 If you don't know how to install addons manually, please watch my video where I teach you how to do that by clicking this link: https://youtu.be/huUvI7O-6lE?t=83
 
-**ElvUI Profile Installation:**
+## **ElvUI Profile Installation:**
 
 The main interface is ElvUI but this is **not** included in the addon package. Why? ElvUI makes the file size of this addon pack to large in order for me to upload it. You can copy my ElvUI import string by downloading the "xScarlife ElvUI Profile Retail V2.txt" file from this Github page. Once downloaded, open the .txt file and copy the code. Go in-game and import my profile.
 
