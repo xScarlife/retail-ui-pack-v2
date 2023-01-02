@@ -101,6 +101,39 @@ If you are interested in the Weakaura's that I'm using for this expansion, you c
 
 **[Paste](https://www.curseforge.com/wow/addons/paste)**
 
+**[Pawn](https://www.curseforge.com/wow/addons/pawn)**
+
+**[Plater Nameplates](https://www.curseforge.com/wow/addons/plater-nameplates)**
+
+**[Raider IO](https://www.curseforge.com/wow/addons/raiderio)**
+
+**[RareScanner](https://www.curseforge.com/wow/addons/rarescanner)**
+
+**[RareTrackerCore](https://www.curseforge.com/wow/addons/raretrackercore-rt)**
+
+**[RareTrackerCore Dragonflight](https://www.curseforge.com/wow/addons/raretrackerdragonflight-rtd)**
+
+**[Rarity](https://www.curseforge.com/wow/addons/rarity)**
+
+**[Routes](https://www.curseforge.com/wow/addons/routes)**
+
+**[Routes Import & Export](https://www.curseforge.com/wow/addons/routes-import-export)**
+
+**[Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft)**
+
+**[Target Nameplate Indicator](https://www.curseforge.com/wow/addons/targetnameplateindicator)**
+
+**[TomTom](https://www.curseforge.com/wow/addons/tomtom)**
+
+**[TradeSkillMaster](https://www.curseforge.com/wow/addons/tradeskill-master)**
+
+**[Weakaura's](https://www.curseforge.com/wow/addons/weakauras-2)**
+
+**[World Quests List](https://www.curseforge.com/wow/addons/world-quests-list)**
+
+**[World Quests List](https://www.curseforge.com/wow/addons/world-quests-list)**
+
+
 Thanks for reading, have fun!
 
 - xScarlife
