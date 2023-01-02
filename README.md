@@ -63,7 +63,29 @@ If you are interested in the Weakaura's that I'm using for this expansion, you c
 
 **[All The Things](https://www.curseforge.com/wow/addons/all-the-things)**
 
+**[Classic Numbers](https://www.curseforge.com/wow/addons/classicnumbers)**
 
+**[Details Damage Meter](https://www.curseforge.com/wow/addons/details)**
+
+**[ElvUI WindTools](https://www.curseforge.com/wow/addons/elvui-windtools)**
+
+**[FarmHud](https://www.curseforge.com/wow/addons/farmhud)**
+
+**[GatherMate2](https://www.curseforge.com/wow/addons/gathermate2)**
+
+**[GatherMate2 Data](https://www.curseforge.com/wow/addons/gathermate2_data)**
+
+**[GTFO](https://www.curseforge.com/wow/addons/gtfo)**
+
+**[HandyNotes](https://www.curseforge.com/wow/addons/handynotes)**
+
+**[HandyNotes Dragonflight](https://www.curseforge.com/wow/addons/handynotes-dragonflight-treasures)**
+
+**[Hyperspawn](https://www.curseforge.com/wow/addons/hyperspawn)**
+
+**[Instance Portals](https://www.curseforge.com/wow/addons/instance-portals)**
+
+**[Leatrix Plus Dragonflight](https://www.curseforge.com/wow/addons/leatrix-plus)**
 
 
 
