@@ -36,7 +36,7 @@ Please follow these instructions step by step in order to install my Windtools p
 
 Please follow these instructions step by step in order to install my Quest Objectives profile correctly.
 
-1) Hit ESC -> Edit Mode
+1) Hit ESC -> Edit Mode.
 2) Under the 'Layout' section, open the dropdown menu and select 'Import'.
 3) Now paste in my **[Quest Objective Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Objective%20Tracker.txt)**. Then click on 'Import' to finalize. 
 4) My Quest Objectives import profile should now be successfully installed. 
