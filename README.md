@@ -8,8 +8,6 @@
 
 This version 2 package contains performance fixes and new interface features. Please make sure you follow the steps below before you continue making any changes. If you have any problems during installation or you have additional questions, please do not hesitate to ask for help in the Discord server, me and my moderators are happy to help where we can.
 
-If you don't know how to install addons manually, please watch my video where I teach you how to do that by clicking this link: https://youtu.be/huUvI7O-6lE?t=83
-
 ## **ElvUI - Profile Installation - Dragonflight**
 
 Please follow these instructions step by step in order to install my ElvUI profile correctly.
