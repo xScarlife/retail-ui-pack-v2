@@ -34,13 +34,12 @@ Please follow these instructions step by step in order to install my Windtools p
 
 ## **Quest Objectives - Profile Installation - Dragonflight**
 
-Please follow these instructions step by step in order to install my Windtools profile correctly.
+Please follow these instructions step by step in order to install my Quest Objectives profile correctly.
 
-1) Download the latest Windtools version from this link: https://www.curseforge.com/wow/addons/elvui-windtools.
-2) Drag the Windtools folders you can find inside the .zip file to your AddOns folder. In most cases the AddOns folder is located at C:\World of Warcraft\_retail_\Interface\AddOns.
-3) Launch the game and make sure ElvUI Windtools is checked to be loaded. 
-4) Open the ElvUI options menu by writing /elvui in your chat window. Go to 'Windtools' and select 'Advanced'. Then go to 'Profiles' and paste in my **[Quest Objective Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Objective%20Tracker.txt)**. Then click on 'Import' to finalize. 
-5) My Windtools import profile should now be successfully installed. 
+1) Hit ESC -> Edit Mode
+2) Under the 'Layout' section, open the dropdown menu and select 'Import'.
+3) Now paste in my **[Quest Objective Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Objective%20Tracker.txt)**. Then click on 'Import' to finalize. 
+4) My Quest Objectives import profile should now be successfully installed. 
 
 ## **Details Damage Meter - Profile Installation - Dragonflight**
 
