@@ -6,7 +6,7 @@
 ![ElvUI Interface Overview xScarlife](https://user-images.githubusercontent.com/24465574/211118487-7c0d3571-0ec7-467a-b4c9-703a8d89df91.png)
 ### You are not allowed to share or upload this profile to other sources or claim it to be your own without the creator's permission.
 
-This version 2 package contains performance fixes and new interface features. Please make sure you follow the steps below before you continue making any changes. If you have any problems during installation or you have additional questions, please do not hesitate to ask for help in the Discord server, me and my moderators are happy to help where we can.
+This version 2 package contains performance fixes and new interface features. Please make sure you follow the steps below before you continue making any changes. 
 
 **NOTE:** This profile is best used at a 2560x1440 screen resolution and a 0.7 UI scale. If you want to use the profile for a 1920x1080 screen resolution you might need to resize some of the action bars or other settings!
 
