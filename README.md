@@ -75,6 +75,9 @@ Please follow these instructions step by step in order to install my Details Dam
 4) Open the Deadly Boss Mods options menu by writing /dbm in your chat window. Go to 'Options' at the top and click on 'Profiles'. Click on 'Import profile' and paste in my **[DBM Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Deadly%20Boss%20Mods%20Profile.txt)**. Then click on 'Import'  to finalize the import. 
 5) My Deadly Boss Mods profile should now be successfully installed.
 
+![DBM Import](https://user-images.githubusercontent.com/24465574/211121326-9446ef46-7643-421d-b835-23a8c427b538.png)
+
+
 ## **Weakaura's - Dragonflight**
 If you are interested in the Weakaura's that I'm using for this expansion, you can find them by clicking this link: **[Weakaura's Import Strings](https://github.com/xScarlife/weakauras)**. Please note, the Weakaura's are not mine and I will not be able to give support for any modifications you want to make. 
 
@@ -126,8 +129,6 @@ If you are interested in the Weakaura's that I'm using for this expansion, you c
 **[Paste](https://www.curseforge.com/wow/addons/paste)**
 
 **[Pawn](https://www.curseforge.com/wow/addons/pawn)**
-
-**[Plater Nameplates](https://www.curseforge.com/wow/addons/plater-nameplates)**
 
 **[Raider IO](https://www.curseforge.com/wow/addons/raiderio)**
 
