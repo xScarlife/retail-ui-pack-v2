@@ -25,9 +25,9 @@ Please follow these instructions step by step in order to install my ElvUI profi
 
 ![ElvUI Import Profile](https://user-images.githubusercontent.com/24465574/211119287-920d2cb2-0096-4c57-b2fc-714f5a59b7c3.png)
 
-```diff
-!NOTE: I also use friendly nameplates with this ElvUI profile. In order to turn them on use the key combination "Shift+V" on your keyboard to turn the friendly nameplates on if they are not enabled by default!
-```
+
+**NOTE:** I also use friendly nameplates with this ElvUI profile. In order to turn them on use the key combination "Shift+V" on your keyboard to turn the friendly nameplates on if they are not enabled by default!
+
 
 ## **ElvUI Windtools - Profile Installation - Dragonflight**
 
