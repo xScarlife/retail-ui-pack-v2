@@ -50,6 +50,9 @@ Please follow these instructions step by step in order to install my Quest Objec
 3) Now paste in my **[Quest Objective Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Objective%20Tracker.txt)**. Then click on 'Import' to finalize. 
 4) My Quest Objectives import profile should now be successfully installed. 
 
+![Objective Tracker](https://user-images.githubusercontent.com/24465574/211121046-5e1806dc-56f9-417b-964f-671f05b576d9.png)
+
+
 ## **Details Damage Meter - Profile Installation - Dragonflight**
 
 Please follow these instructions step by step in order to install my Details Damage Meter profile correctly. 
