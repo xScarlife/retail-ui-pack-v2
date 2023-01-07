@@ -39,6 +39,8 @@ Please follow these instructions step by step in order to install my Windtools p
 4) Open the ElvUI options menu by writing /elvui in your chat window. Go to 'Windtools' and select 'Advanced'. Then go to 'Profiles' and paste in my **[Windtools Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20Windtools%20Profile.txt)**. Then click on 'Import' to finalize. 
 5) My Windtools import profile should now be successfully installed. 
 
+![WindTools Import](https://user-images.githubusercontent.com/24465574/211120788-b7164a9f-aee0-4bd1-931b-0d59ed6dbfe0.png)
+
 ## **Quest Objectives - Profile Installation - Dragonflight**
 
 Please follow these instructions step by step in order to install my Quest Objectives profile correctly.
