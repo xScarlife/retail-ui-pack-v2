@@ -156,8 +156,6 @@ If you are interested in the Weakaura's that I'm using for this expansion, you c
 
 **[World Quests List](https://www.curseforge.com/wow/addons/world-quests-list)**
 
-**[World Quests List](https://www.curseforge.com/wow/addons/world-quests-list)**
-
 
 This is the end of the article. Thank you for reading till the end. If you have any questions, please ask ahead on the Discord server. 
 
