@@ -64,6 +64,9 @@ Please follow these instructions step by step in order to install my Details Dam
 5) Make sure the current profile is set to 'xScarlife_Details'.
 6) My Details Damage Meter profile should now be successfully installed.
 
+![Details Profile](https://user-images.githubusercontent.com/24465574/211121144-1217b150-19aa-405d-a0a6-be1f6390b14d.png)
+
+
 ## **Deadly Boss Mods - Profile Installation - Dragonflight**
 
 1) Download the latest Deadly Boss Mods version from this link: https://www.curseforge.com/wow/addons/deadly-boss-mods.
