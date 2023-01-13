@@ -10,6 +10,8 @@ This version 2 package contains performance fixes and new interface features. Pl
 
 **NOTE:** This profile is best used at a 2560x1440 screen resolution and a 0.7 UI scale. If you want to use the profile for a 1920x1080 screen resolution you might need to resize some of the action bars or other settings!
 
+If you want to follow along with the video guide, click this link: https://www.youtube.com/watch?v=gim1gFimErw
+
 ## **ElvUI - Profile Installation - Dragonflight**
 
 Please follow these instructions step by step in order to install my ElvUI profile correctly.
