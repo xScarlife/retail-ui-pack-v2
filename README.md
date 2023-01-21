@@ -92,8 +92,6 @@ If you are interested in the Weakaura's that I'm using for this expansion, you c
 
 **[All The Things](https://www.curseforge.com/wow/addons/all-the-things)**
 
-**[Classic Numbers](https://www.curseforge.com/wow/addons/classicnumbers)**
-
 **[Details Damage Meter](https://www.curseforge.com/wow/addons/details)**
 
 **[ElvUI WindTools](https://www.curseforge.com/wow/addons/elvui-windtools)**
