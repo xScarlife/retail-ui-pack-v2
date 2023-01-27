@@ -21,7 +21,7 @@ Please follow these instructions step by step in order to install my ElvUI profi
 3) Launch the game and make sure all ElvUI addons are checked to be loaded.
 4) Open the ElvUI options menu by writing /elvui in your chat window. Go to 'Profiles', then click on 'Import Profile' and paste in the **[ElvUI Profile String](https://github.com/xScarlife/retail-ui-pack-v2/blob/main/xScarlife%20ElvUI%20Profile%20V2.txt)**.
 5) Once my ElvUI import string is imported, go to 'Profiles' and make sure the correct profile called 'xScarlife' is selected. This can be found under the 'Existing Profiles'.
-6) Now open your chat window and paste in this code: **/script C_CVar.RegisterCVar("nameplateShowOnlyNames")** to register your CVar. One its registered run the second script: **/run SetCVar('nameplateShowOnlyNames', 1); ReloadUI()**
+6) Now open your chat window and paste in this code: **/script C_CVar.RegisterCVar("nameplateShowOnlyNames")** to register your CVar. Once its registered run the second script: **/run SetCVar('nameplateShowOnlyNames', 1); ReloadUI()**
 7) Reload your interface to save all these changes by opening your chat window and writing /reload
 8) My ElvUI profile should now be successfully installed.
 
