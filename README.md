@@ -5,13 +5,12 @@
 
 ![ElvUI Interface Overview xScarlife](https://user-images.githubusercontent.com/24465574/211118487-7c0d3571-0ec7-467a-b4c9-703a8d89df91.png)
 
-**[Buy Me a Coffee](https://www.buymeacoffee.com/xscarlife)**
-
 This version 2 package contains performance fixes and new interface features. Please make sure you follow the steps below before you continue making any changes. 
 
 **NOTE:** This profile is best used at a 2560x1440 screen resolution and a 0.7 UI scale. If you want to use the profile for a 1920x1080 screen resolution you might need to resize some of the action bars or other settings!
 
 If you want to follow along with the video guide, click this link: https://www.youtube.com/watch?v=gim1gFimErw
+If you want to support me **[Buy Me a Coffee](https://www.buymeacoffee.com/xscarlife)**
 
 ## **ElvUI - Profile Installation - Dragonflight**
 
