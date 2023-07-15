@@ -5,7 +5,7 @@
 
 ![ElvUI Interface Overview xScarlife](https://user-images.githubusercontent.com/24465574/211118487-7c0d3571-0ec7-467a-b4c9-703a8d89df91.png)
 
-![Buy Me a Coffee](https://www.buymeacoffee.com/xscarlife)
+**[Buy Me a Coffee](https://www.buymeacoffee.com/xscarlife)**.
 
 
 This version 2 package contains performance fixes and new interface features. Please make sure you follow the steps below before you continue making any changes. 
