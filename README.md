@@ -3,6 +3,8 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY_LsfkMQS--TVMvGl90rNA?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/xscarlife?style=social)
 
+<a href="https://www.buymeacoffee.com/xscarlife" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ![ElvUI Interface Overview xScarlife](https://user-images.githubusercontent.com/24465574/211118487-7c0d3571-0ec7-467a-b4c9-703a8d89df91.png)
 
 This version 2 package contains performance fixes and new interface features. Please make sure you follow the steps below before you continue making any changes. 
@@ -10,8 +12,6 @@ This version 2 package contains performance fixes and new interface features. Pl
 **NOTE:** This profile is best used at a 2560x1440 screen resolution and a 0.7 UI scale. If you want to use the profile for a 1920x1080 screen resolution you might need to resize some of the action bars or other settings!
 
 If you want to follow along with the video guide, click this link: https://www.youtube.com/watch?v=gim1gFimErw
-
-If you want to support me **[Buy Me a Coffee](https://www.buymeacoffee.com/xscarlife)**
 
 ## **ElvUI - Profile Installation - Dragonflight**
 
